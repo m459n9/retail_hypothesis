@@ -4,8 +4,8 @@
 
 Используемый стек:
 
-*Python
-*SQL
-*Excel
+1) Python
+2) SQL
+3) Excel
 
 
